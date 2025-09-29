@@ -1,6 +1,6 @@
 ## About me
 
-📧 [Email](https://mail.google.com/mail/?view=cm&fs=1&to=dc1770832@gmail.com)
+[![Email Badge](https://mail.google.com/mail/?view=cm&fs=1&to=dc1770832@gmail.com)
 [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/davicostas/)](https://www.linkedin.com/in/davicostas/)
 
 - 👋 Hi, I'm **Davi Costa**  
