@@ -28,3 +28,27 @@
   <!-- JSON -->
   <img src="https://img.icons8.com/material-outlined/48/ffffff/json.png" alt="json" width="40" height="40"/>
 </p>
+
+---
+
+## GitHub Stats
+
+<!-- Main stats -->
+![Davi's GitHub stats](https://github-readme-stats.vercel.app/api?username=davicostas&show_icons=true&count_private=true&include_all_commits=true&theme=dark&hide_border=true)
+
+<!-- Top languages -->
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=davicostas&layout=compact&theme=dark&hide_border=true)
+
+<!-- Streak -->
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=davicostas&theme=dark&hide_border=true)
+
+---
+
+## Activity
+
+<!-- Profile summary card -->
+![Profile Details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=davicostas&theme=github_dark)
+
+<!-- Stats + Commits -->
+![Stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=davicostas&theme=github_dark)
+![Commits](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=davicostas&theme=github_dark&utcOffset=8)
