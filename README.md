@@ -42,27 +42,4 @@
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=heyitsdavi&theme=radical&border_radius=5)
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=heyitsdavi&show_icons=true&theme=radical" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=heyitsdavi&layout=compact&theme=radical" alt="Top Langs" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=heyitsdavi&theme=radical&border_radius=5" alt="GitHub Streak" />
-</p>
-
 ---
-
-## Activity
-
-<!-- Profile summary card -->
-![Profile Details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=davicostas&theme=github_dark)
-
-<!-- Stats + Commits -->
-![Stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=davicostas&theme=github_dark)
-![Commits](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=davicostas&theme=github_dark&utcOffset=8)
