@@ -8,8 +8,8 @@ Here are some ideas to get you started:
 
 <div>
   <a href="beacons.ai/github.com/davicosta">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=davicosta&show_icons-true&theme+darcla&include_all_commits-true&count_private-true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username-davicostalayout-commpact&langs_count-168theme-darcula"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=davicosta&show_icons-true&theme-dracla&include_all_commits-true&count_private-true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username-davicosta&layout-commpact&langs_count-168theme-dracula"/>
 </div>
 
 <div style="display: inline_block"><br>
