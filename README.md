@@ -34,13 +34,27 @@
 ## GitHub Stats
 
 <!-- Main stats -->
-![Davi's GitHub stats](https://github-readme-stats.vercel.app/api?username=davicostas&show_icons=true&count_private=true&include_all_commits=true&theme=dark&hide_border=true)
+## 📊 GitHub Stats
 
-<!-- Top languages -->
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=davicostas&layout=compact&theme=dark&hide_border=true)
+![Davi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=heyitsdavi&show_icons=true&theme=radical)
 
-<!-- Streak -->
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=davicostas&theme=dark&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=heyitsdavi&layout=compact&theme=radical)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=heyitsdavi&theme=radical&border_radius=5)
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=heyitsdavi&show_icons=true&theme=radical" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=heyitsdavi&layout=compact&theme=radical" alt="Top Langs" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=heyitsdavi&theme=radical&border_radius=5" alt="GitHub Streak" />
+</p>
 
 ---
 
