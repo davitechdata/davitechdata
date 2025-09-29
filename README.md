@@ -31,8 +31,6 @@
 
 ---
 
-## GitHub Stats
-
 <!-- Main stats -->
 ## 📊 GitHub Stats
 
