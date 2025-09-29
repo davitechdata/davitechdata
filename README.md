@@ -24,4 +24,7 @@
   
   <!-- Power BI -->
   <img src="https://img.icons8.com/color/48/000000/power-bi.png" alt="powerbi" width="40" height="40"/>
+  
+  <!-- JSON -->
+  <img src="https://img.icons8.com/material-outlined/48/ffffff/json.png" alt="json" width="40" height="40"/>
 </p>
