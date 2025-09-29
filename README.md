@@ -1,6 +1,6 @@
 ## About me
 
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:dc1770832@gmail.com)](mailto:dc1770832@gmail.com)
+[![Gmail Badge](https://mail.google.com/mail/?view=cm&fs=1&to=dc1770832@gmail.com)
 [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/davicostas/)](https://www.linkedin.com/in/davicostas/)
 
 - 👋 Hi, I'm **Davi Costa**  
