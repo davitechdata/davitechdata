@@ -1,7 +1,7 @@
 ## About me
 
 [![Email Badge](https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&fs=1&to=dc1770832@gmail.com)
-[![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/davicostas/)
+[![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](www.linkedin.com/in/davitechdata)
 
 - 👋 Hi, I'm **Davi Costa**  
 - 🎓 Technician in **Computer Networks**  
