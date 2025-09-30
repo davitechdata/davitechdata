@@ -38,6 +38,4 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=heyitsdavi&layout=compact&theme=radical)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=heyitsdavi&theme=radical&border_radius=5)
-
 ---
