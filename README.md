@@ -5,7 +5,7 @@
 
 - 👋 Hi, I'm **Davi Costa**  
 - 🎓 Technician in **Computer Networks**  
-- 🏢 Currently working with **question bank management** at an EdTech  
+- 🏢 Currently working with **new business** at an EdTech
 - 📊 Studying **Data Science** to become a future Data Scientist  
 
 ---
